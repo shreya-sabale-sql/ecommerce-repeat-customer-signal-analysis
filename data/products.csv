@@ -1,0 +1,11 @@
+product_id,product_name,category,brand,base_price
+P101,Wireless Earbuds,Electronics,Boat,2999
+P102,Budget Smartphone,Electronics,Redmi,12999
+P103,Midrange Smartphone,Electronics,Samsung,24999
+P104,Men Casual Shirt,Fashion,Allen Solly,1999
+P105,Women Kurti,Fashion,Biba,2499
+P106,Running Shoes,Fashion,Nike,5999
+P107,Mixer Grinder,Home,Philips,6499
+P108,Non-Stick Cookware,Home,Prestige,3499
+P109,Face Wash,Beauty,Minimalist,399
+P110,Hair Serum,Beauty,LOreal,699
