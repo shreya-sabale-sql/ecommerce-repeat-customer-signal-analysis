@@ -151,17 +151,4 @@ Based on the analysis, the following actions are recommended:
 Detailed assumptions and limitations are documented separately for transparency.
 
 ---
-
-## 👩‍💻 Author
-
-**Shreya Sabale**  
-Aspiring Data Analyst | Business Analytics | SQL | Power BI  
-
-🔗 LinkedIn: *(add your LinkedIn profile link)*  
-📁 Portfolio: *(add your portfolio link)*  
-
----
-
-## 📌 Final Note
-
 This project was built to reflect how **real analytics teams evaluate growth sustainability and acquisition quality**, not as a visualization exercise. The focus is on **decision support, clarity, and business impact**.
